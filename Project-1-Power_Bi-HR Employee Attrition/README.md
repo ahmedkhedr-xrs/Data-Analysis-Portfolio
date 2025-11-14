@@ -6,7 +6,7 @@ This project involves building an interactive dashboard to analyze the root caus
 
 ### 📊 Interactive Demo (GIF)
 
-*(Place your 30-60 second screen recording GIF here. Show navigation between pages, clicking on slicers, and hovering over key charts.)*
+*(Place your 60-90 second screen recording GIF here. Show navigation between pages, clicking on slicers, and hovering over key charts.)*
 
 ![HR Dashboard Demo](HR_Dashboard_Demo.gif)
 
