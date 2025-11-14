@@ -9,7 +9,8 @@ This project demonstrates an end-to-end BI solution built entirely within Micros
 The initial data was fragmented across **3 separate Excel files**:
 1.  A primary `Orders` table.
 2.  A `Returns` table.
-3.  A `Shipping Cost` lookup table.
+3.  A `Person` table
+4.  A `Shipping Cost` lookup table.
 
 The data was "raw" and unusable for direct analysis, requiring significant cleaning, transformation, and modeling.
 
